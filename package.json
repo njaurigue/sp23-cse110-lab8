@@ -1,0 +1,23 @@
+{
+  "name": "sp23-cse110-lab8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest-puppeteer.config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njaurigue/sp23-cse110-lab8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njaurigue/sp23-cse110-lab8/issues"
+  },
+  "homepage": "https://github.com/njaurigue/sp23-cse110-lab8#readme",
+  "jest": {
+    "preset": "jest-puppeteer",
+    "verbose": true
+  }
+}
